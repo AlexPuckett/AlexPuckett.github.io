@@ -1,2 +1,3 @@
 # AlexPuckett.github.io
-Welcome to my site!
+A software that calculates shielding thickness and costs for a Brachytherapy treatment room, written in MATLAB.
+Licensed under the MIT License © 2025 Alexandros Puckett Anastasiou.
