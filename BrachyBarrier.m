@@ -24,8 +24,8 @@
 
 
 
-%%clearvars
-%%clc
+clearvars
+clc
 
 %% Creating Initial layout
 % Creating the main UI figure
